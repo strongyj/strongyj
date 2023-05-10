@@ -1,4 +1,5 @@
 ## Hi there 👋
+My main position is backend development.
 
 ### 🌱 I’m currently studying ...
 
